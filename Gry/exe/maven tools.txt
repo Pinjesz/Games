@@ -1,0 +1,1 @@
+mvn package -> zbudowanie do pliku .jar
