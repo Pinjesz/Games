@@ -2,10 +2,10 @@
 Couple of games in java
 
 ## Connect Four
-![img1](pictures/connectfour.png)
+![img1](Gry/pictures/connectfour.png)
 
 ## Chess
-![img1](pictures/chess.png)
+![img1](Gry/pictures/chess.png)
 
 ## Tic Tac Toe
-![img1](pictures/tictactoe.png)
+![img1](Gry/pictures/tictactoe.png)
